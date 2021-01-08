@@ -31,7 +31,7 @@ How to find halal food is an application based on cloud-native architecture. App
   
   Microservices repositories are available on: [https://github.com/shalilcevicRSO](https://github.com/shalilcevicRSO).
   
-  Application architecture can be seen in [Architecture.md file.](https://github.com/shalilcevicRSO/documentation/blob/main/Architecture.md).
+  Application architecture can be seen in [Architecture.md file](https://github.com/shalilcevicRSO/documentation/blob/main/Architecture.md).
   
   ### End points
     - [http://20.72.146.70:8080/v1/places](http://20.72.146.70:8080/v1/places)
