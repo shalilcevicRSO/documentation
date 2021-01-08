@@ -35,21 +35,41 @@ Docker image are provided on: [https://hub.docker.com/repository/docker/selmah/r
 
 ## Travis - CI/CD
 
+CI/CD cycle is performed by Travis CI. It can accessed by next link: [https://www.travis-ci.com/github/shalilcevicRSO](https://www.travis-ci.com/github/shalilcevicRSO)
+
 ## Configuration
+
+For the configuration for now it is used only config file for each microservice.
 
 ## Health Checks
 
+
+
 ## Metrics Collection
+  - [http://localhost:8080/v1/places/allPlacesRequests](http://localhost:8080/v1/places/allPlacesRequests)
+  - [http://localhost:8080/v1/places/createNewPlaceMeter](http://localhost:8080/v1/places/createNewPlaceMeter)
 
 ## Kubernetes
+  Azure Kubernetes Service.
+  Cluster name: halalplacecatalog
 
 ## Logging
 
+Not implemented yet.
+
 ## Fault Tolerance
+
+Not implemented yet.
 
 ## 3rd party APIs
 
+Not implemented yet.
+
 ## Communication protocols
 
+Not implemented yet.
+
 ## UI implementation
+
+Implementation available locally.
 
