@@ -13,6 +13,6 @@
 <br>
 
 <a href="url"><img src="https://github.com/shalilcevicRSO/documentation/blob/main/images/UI/AddPlaceScreen.png" align="left" height="540" width="331" ></a>
-<a href="url"><img src="https://github.com/shalilcevicRSO/documentation/blob/main/images/UI/AddPlaceScreen.png" align="left" height="540" width="331" ></a> 
+<a href="url"><img src="https://github.com/shalilcevicRSO/documentation/blob/main/images/UI/SearchPlaceScreen.png" align="left" height="540" width="331" ></a> 
 
 <br>
