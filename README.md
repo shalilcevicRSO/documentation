@@ -9,6 +9,24 @@ How to find halal food is an application based on cloud-native architecture. App
   - Adding comments and likes.
 
 ## Microservices
+  - halal-place-catalog
+  - add-halal-place
+  - search-halal-place
+  - image-catalog
+    - It is not implemented yet.
+  - upload-image
+    - It is not implemented yet.
+  - image-processing
+    - It is not implemented yet.
+  - videos-catalog
+    - It is not implemented yet.
+  - upload-videos
+    - It is not implemented yet.
+  - add-comments
+    - It is not implemented yet.
+  - add-likes
+    - It is not implemented yet.
+  Microservices repositories are available on: [https://github.com/shalilcevicRSO](https://github.com/shalilcevicRSO)
 
 ## Docker images
 
