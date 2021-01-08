@@ -26,7 +26,19 @@ How to find halal food is an application based on cloud-native architecture. App
     - It is not implemented yet.
   - add-likes
     - It is not implemented yet.
-  Microservices repositories are available on: [https://github.com/shalilcevicRSO](https://github.com/shalilcevicRSO)
+    
+  
+  
+  Microservices repositories are available on: [https://github.com/shalilcevicRSO](https://github.com/shalilcevicRSO).
+  
+  Application architecture can be seen in [Architecture.md file.](https://github.com/shalilcevicRSO/documentation/blob/main/Architecture.md).
+  
+  ### End points
+    - [http://20.72.146.70:8080/v1/places](http://20.72.146.70:8080/v1/places)
+    - [http://20.62.241.21:8080/v1/searchplace](http://20.62.241.21:8080/v1/searchplace)
+    - [http://20.62.144.160:8080/v1/addplace](http://20.62.144.160:8080/v1/addplace)
+  
+  
 
 ## Docker images
 Docker configuration is written in Dockerfile, which can be found in the repository of every implemented microservice.
