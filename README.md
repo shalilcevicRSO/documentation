@@ -33,10 +33,10 @@ How to find halal food is an application based on cloud-native architecture. App
   
   Application architecture can be seen in [Architecture.md file](https://github.com/shalilcevicRSO/documentation/blob/main/Architecture.md).
   
-  ### End points
-    - [http://20.72.146.70:8080/v1/places](http://20.72.146.70:8080/v1/places)
-    - [http://20.62.241.21:8080/v1/searchplace](http://20.62.241.21:8080/v1/searchplace)
-    - [http://20.62.144.160:8080/v1/addplace](http://20.62.144.160:8080/v1/addplace)
+## End points
+- [http://20.72.146.70:8080/v1/places](http://20.72.146.70:8080/v1/places)
+- [http://20.62.241.21:8080/v1/searchplace](http://20.62.241.21:8080/v1/searchplace)
+- [http://20.62.144.160:8080/v1/addplace](http://20.62.144.160:8080/v1/addplace)
   
   
 
