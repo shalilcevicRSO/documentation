@@ -1,9 +1,6 @@
 # Cloud computing project - How to find halal food?
 # Description
 How to find halal food is an application based on cloud-native architecture. Application is designed to help muslims all over the world to find a place where they can buy halal food, such as restaurants, supermarkets, hotels or butcher shops.
-# Use cases
-### Where to buy halal food use case diagram!
-![Where to buy halal food use case](https://github.com/shalilcevicRSO/documentation/blob/main/images/UseCase/where_to_buy_halal_food_usecase_diagram.png)
 
 # User interface 
 First prototype of the UI is given below.
