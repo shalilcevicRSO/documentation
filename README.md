@@ -82,7 +82,3 @@ Not implemented yet.
 
 Not implemented yet.
 
-## UI implementation
-
-Implementation available locally.
-
