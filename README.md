@@ -42,6 +42,7 @@ CI/CD cycle is performed by Travis CI. It can accessed by next link: [https://ww
 For the configuration for now it is used only config file for each microservice.
 
 ## Health Checks
+- Simulation of microservice fail: [http://20.62.225.160:8080/v1/demo/break](http://20.62.225.160:8080/v1/demo/break)
 
 
 
