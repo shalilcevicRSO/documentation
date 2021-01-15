@@ -73,13 +73,7 @@ Unable to implement it.
 
 ## Fault Tolerance
 
-Not implemented yet.
+The same problem like in Logging. Bean class cannot import fault tolerance from microprofile. Hence I was not able to implement it. Although there is code example how it should be implemented if the library could be imported.
 
-## 3rd party APIs
 
-Not implemented yet.
-
-## Communication protocols
-
-Not implemented yet.
 
