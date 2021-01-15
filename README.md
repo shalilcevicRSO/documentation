@@ -68,7 +68,8 @@ For the configuration for now it is used only config file for each microservice.
 
 ## Logging
 
-Not implemented yet.
+Maven dependencies logs and cdi-weld are added to pom.xml files, but classs cannot import com.kumuluz.ee.logs.cdi.Log, because it cannot find cdi library.
+Unable to implement it.
 
 ## Fault Tolerance
 
