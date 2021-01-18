@@ -88,6 +88,44 @@ Its endpoints are:
 - [http://localhost:8080/graphql](http://localhost:8080/graphql), or
 - [http://localhost:8080/graphiql](http://localhost:8080/graphiql) 
 
+Below are listed some query examples to be run on [http://localhost:8080/graphiql](http://localhost:8080/graphiql) :
+```
+query getHalalPlaceMetadata {
+   halalPlaceMetadata ( halalPlaceMetadataId: 1){
+    placeId
+    placeName
+    city
+    country
+    streetName
+    streetNumber
+    zipCode
+    placeType
+    description
+    dateCreated
+    uri
+  }
+}
+```
+```
+query getSearchHalalPlaceMetadata {
+   searchHalalPlaceMetadata(city: "Ljubljana", country:"Slovenia") {
+    placeId
+    placeName
+    city
+    country
+    streetName
+    streetNumber
+    zipCode
+    placeType
+    description
+    dateCreated
+    uri
+  }
+}
+```
+
+
+
 ## Logging
 
 Maven dependencies logs and cdi-weld are added to pom.xml files, but classs cannot import com.kumuluz.ee.logs.cdi.Log, because it cannot find cdi library.
