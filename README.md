@@ -53,6 +53,10 @@ CI/CD cycle is performed by Travis CI. It can accessed by next link: [https://ww
 
 For the configuration for now it is used only config file for each microservice.
 
+## Microservices communication:
+Add halal place and search halal place microservices are accessing halal-place-catalog through Unirest http request.
+Add-halal-place service posts data to createHalalPlaceMethod(), and search-halal-place microservice gets information about searched city and country through creating a get http request to getSearchHalalPlaceMetadata() method in halal-place-catalog microservice.
+
 ## Health Checks
 Simulation of microservice fail: 
 - Check current microservice health: [http://localhost:8080/v1/places/healthy](http://localhost:8080/v1/places/healthy)
